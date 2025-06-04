@@ -113,8 +113,7 @@ Data-Analysis-of-Hardware-Environmental-Impact/
 
 ## 📄 License and Terms of Use
 
-This project utilizes data provided by [Boavizta Environmental Footprint Data](https://data.boavizta.org/) and adheres to its [terms of use](https://github.com/Boavizta/data/tree/main/LICENSE).
-
+This project utilizes data provided by [Boavizta Environmental Footprint Data](https://github.com/Boavizta/environmental-footprint-data).
 All datasets used are publicly available under open data licenses and were accessed for educational and non-commercial research purposes.
 
 The source code in this repository is licensed under the [MIT License](./LICENSE.txt).  
@@ -126,6 +125,6 @@ The source code in this repository is licensed under the [MIT License](./LICENSE
 
 We gratefully acknowledge the following sources and institutions for their support and data:
 
-- [Boavizta Environmental Footprint Data](https://data.boavizta.org/)
+- [Boavizta](https://www.linkedin.com/company/boavizta/)
 - Cornerstone International Community College of Canada
 
