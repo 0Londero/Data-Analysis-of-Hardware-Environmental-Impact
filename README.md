@@ -1,4 +1,5 @@
-# 🌍 Data Analysis of Hardware Environmental Impact
+# 🌍 Hardware Environmental Impact: Analyzing Correlations and Testing Hypotheses
+
 
 ## Overview
 
@@ -110,7 +111,21 @@ Data-Analysis-of-Hardware-Environmental-Impact/
 
 ---
 
-## License
+## 📄 License and Terms of Use
 
-This project is open source and available under the [MIT License](./LICENSE.txt).  
-Feel free to use, modify, and cite it in academic or industrial applications.
+This project utilizes data provided by [Boavizta Environmental Footprint Data](https://data.boavizta.org/) and adheres to its [terms of use](https://github.com/Boavizta/data/tree/main/LICENSE).
+
+All datasets used are publicly available under open data licenses and were accessed for educational and non-commercial research purposes.
+
+The source code in this repository is licensed under the [MIT License](./LICENSE.txt).  
+👉 For full legal details, please refer to our [Terms of Use](./LICENSE.txt).
+
+---
+
+## 🙌 Acknowledgements
+
+We gratefully acknowledge the following sources and institutions for their support and data:
+
+- [Boavizta Environmental Footprint Data](https://data.boavizta.org/)
+- Cornerstone International Community College of Canada
+
