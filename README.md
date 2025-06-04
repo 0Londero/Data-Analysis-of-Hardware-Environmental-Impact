@@ -105,8 +105,8 @@ Data-Analysis-of-Hardware-Environmental-Impact/
 
 ## Contributors
 
-- [Otávio Londero](https://github.com/0Londero): Manufacturers  
-- [Amir Oliveira](https://github.com/aloblack): Municipalities
+- [Otávio Londero](https://github.com/0Londero): Main Research and Development of Manufacturers  
+- [Amir Oliveira](https://github.com/ALOBlack19): Main Research and Development of Municipalities
 
 ---
 
