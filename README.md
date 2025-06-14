@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project investigates the environmental impact of hardware devices by analyzing their lifecycle emissions. Using statistical techniques, we identify key factors—such as weight, screen size, and manufacturer—that contribute to greenhouse gas (GHG) emissions in different lifecycle stages: manufacturing, transport, use, and disposal.
+This project investigates the environmental impact of hardware devices by analyzing their lifecycle emissions. Using statistical techniques, we identify key factors such as weight, screen size, and manufacturer that contribute to greenhouse gas (GHG) emissions in different lifecycle stages: manufacturing, transport, use, and disposal.
 
 Designed with stakeholders like municipalities, manufacturers, and investors in mind, the analysis supports data-driven decisions for sustainability, urban logistics, and e-waste policy.
 
@@ -69,10 +69,12 @@ Designed with stakeholders like municipalities, manufacturers, and investors in 
 
 ```
 Data-Analysis-of-Hardware-Environmental-Impact/
-├── data/                   # Raw and processed datasets
+├── data/                   # Raw dataset
 ├── notebooks/              # Analysis notebooks
+├── reports_and_presentation/         # Documents related to the presentation
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
+├── LICENSE.txt             # MIT license
 └── .gitignore
 ```
 
@@ -126,5 +128,4 @@ The source code in this repository is licensed under the [MIT License](./LICENSE
 We gratefully acknowledge the following sources and institutions for their support and data:
 
 - [Boavizta](https://www.linkedin.com/company/boavizta/)
-- Cornerstone International Community College of Canada
 
